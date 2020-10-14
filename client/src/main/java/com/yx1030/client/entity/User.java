@@ -1,4 +1,4 @@
-package com.yx1030.xblog.pojo;
+package com.yx1030.client.entity;
 
 import lombok.Data;
 
